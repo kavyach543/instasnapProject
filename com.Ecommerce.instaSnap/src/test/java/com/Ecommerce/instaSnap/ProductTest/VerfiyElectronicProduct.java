@@ -16,7 +16,7 @@ public class VerfiyElectronicProduct extends BaseTest {
 		public void updateproduct() {
 			Reporter.log("Electronic Product Updated",true);
 		}
-			
+		
 			
 		}
 
